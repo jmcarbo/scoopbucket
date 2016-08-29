@@ -2,6 +2,6 @@
 {
     "version": "1.33",
     "url": "http://downloads.rclone.org/rclone-v1.33-windows-amd64.zip",
-    "extract_dir": "rclone",
-    "bin" : "rclone-v1.33-windows-amd64\\rclone.exe"
+    "extract_dir": "rclone-v1.33-windows-amd64",
+    "bin": "rclone.exe"
 }
