@@ -1,1 +1,7 @@
-https://github.com/monochromegane/the_platinum_searcher/releases/download/v2.1.4/pt_windows_amd64.zip
+
+
+{
+    "version": "2.1.4",
+    "url": "https://github.com/monochromegane/the_platinum_searcher/releases/download/v2.1.4/pt_windows_amd64.zip",
+    "bin": "pt.exe"
+}
