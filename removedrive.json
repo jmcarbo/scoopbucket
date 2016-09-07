@@ -2,5 +2,5 @@
 {
     "version": "2.1.4",
     "url": "http://www.uwe-sieber.de/files/removedrive.zip",
-    "bin": "removedrive.exe"
+    "bin": "x64\\removedrive.exe"
 }
